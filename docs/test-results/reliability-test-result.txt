@@ -1,0 +1,4 @@
+Total checks completed: 20
+17 reliability checks passed.
+Real Windows DPAPI round trip passed.
+Real encrypted history save/restart/clear passed.

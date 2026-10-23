@@ -1,0 +1,12 @@
+30 multilingual OCR checks passed.
+Installed OCR languages: en-US, zh-Hans-CN
+auto: Guten Morgen
+Über die Straße
+auto: Buongiorno mondo
+La cittå bella
+auto: 你好世界
+中文翻译测试
+en-US: Guten Morgen
+Buongiorno mondo
+zh-Hans-CN: Guten Morgen
+Buongiorno mondo

@@ -1,0 +1,12 @@
+Starting probe
+2026-10-23T13:04:52.9477308Z Application resources loaded
+2026-10-23T13:04:52.9546121Z Settings loaded
+2026-10-23T13:04:53.1228164Z Main window constructed
+2026-10-23T13:04:53.1647563Z Probe loaded
+2026-10-23T13:04:53.3286066Z Closing window
+2026-10-23T13:04:53.3326066Z Cleanup entered
+2026-10-23T13:04:53.3336061Z Requests cancelled
+2026-10-23T13:04:53.3336061Z Dropdowns closed
+2026-10-23T13:04:53.3341122Z Capture stopped
+2026-10-23T13:04:53.3341122Z Window.Close returned
+2026-10-23T13:04:53.3557943Z Application exited

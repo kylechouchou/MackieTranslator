@@ -1,0 +1,5 @@
+433 UI checks passed.
+Offline layout run: live translation checks skipped.
+322 local font families checked for layout; glyph appearance is not visually verified for every font.
+Working set after UI tests: 129 MB.
+Splitter layout update mean: 85.4 ms; p95: 97.1 ms.

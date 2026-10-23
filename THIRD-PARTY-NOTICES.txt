@@ -1,0 +1,5 @@
+MackieTranslator WPF uses Microsoft .NET Framework 4.8 / WPF installed on the operating system.
+The Portable edition includes Microsoft's VCRUNTIME140.dll from the Visual Studio C++ redistributable.
+Microsoft runtime components remain copyrighted by Microsoft Corporation and are distributed under their respective runtime redistribution terms.
+The native DLL is built from the included MIT-licensed Rust source. Its base64 and serde_json dependencies retain their MIT / Apache-2.0 licenses.
+Full Rust dependency license texts are provided in native/licenses in the Source edition and licenses in the Portable edition.
